@@ -3,10 +3,8 @@
 #include <string>
 
 #include "CommunicationFPGA.h"
+//Git2
 
-/*#include <QApplication>
-#include <QCommandLineParser>
-#include <QCommandLineOption>*/
 
 
 using namespace std;
